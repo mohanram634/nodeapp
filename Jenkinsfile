@@ -1,4 +1,4 @@
-peline {
+pipeline {
     agent any 
     stages{
         stage('Build the docker Image'){
